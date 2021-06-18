@@ -1,4 +1,5 @@
--- Last Updated: Dec, 9h 2020
+
+-- Last Updated: Dec, 9h 2020 by Sasa Jovanovic
 -- Project file: finalProject.sql
 -- FOR: CIS205 - Fall Semester
 -- Description : Final Project
