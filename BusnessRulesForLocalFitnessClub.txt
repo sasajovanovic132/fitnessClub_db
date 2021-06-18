@@ -1,0 +1,23 @@
+Business Rules
+
+Description:
+
+Local Fitness Club is based on Appointments between Fitness Trainer and Client. Fitness Trainer creates Session for customers.They meet via Appointment to execute daily Session.
+
+Subjects:
+
+Fitness   
+Client   
+Session 
+Appointment 
+
+Rules:
+
+-- Fitness Trainer can have Many Clients
+-- Client can have Many Fitness Trainers
+-- Every Session is created by one Fitness Trainer
+-- Every Fitness Trainer can create many Sessions
+-- Session is composed of Nutrition Plan ,Work Out plan and Cardio Plan
+-- Every Session is paid daily
+
+
